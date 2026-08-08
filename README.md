@@ -62,22 +62,7 @@ This repository contains my CCNA practical exercises and learning materials, inc
 - Practical Assignments
 - Networking Notes
 
-## 📂 Repository Structure
 
-```text
-CCNA/
-│
-├── Practical/
-│   ├── Physical Connection Labs
-│   ├── Packet Flow
-│   └── Network Practical Exercises
-│
-├── Test/
-│   ├── CCNA Tests
-│   ├── IP Addressing Tests
-│   └── Networking Practice Tests
-│
-└── README.md
 🚀 Learning Journey
 
 I am continuously practicing networking concepts and uploading my practical work to this repository.
